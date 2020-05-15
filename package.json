@@ -1,0 +1,16 @@
+{
+  "name": "animacija2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://stefanv14.github.io/animation-1",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
